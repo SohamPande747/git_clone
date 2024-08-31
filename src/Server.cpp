@@ -2,6 +2,7 @@
 #include <filesystem>
 #include <fstream>
 #include <string>
+#include <zlib.h>
 
 int main(int argc, char *argv[])
 {
